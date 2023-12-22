@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChessLogic", "ChessLogic\ChessLogic.csproj", "{43B00CE0-348A-48B5-97D7-9D0402F42C88}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChessUI", "ChessUI\ChessUI.csproj", "{08597D1F-B7B7-4AD6-AF79-BF85A5F85911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess.Common", "Chess.Common\Chess.Common.csproj", "{23044B9C-2DA2-4DD1-8F1D-F5785F9755F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43B00CE0-348A-48B5-97D7-9D0402F42C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B00CE0-348A-48B5-97D7-9D0402F42C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B00CE0-348A-48B5-97D7-9D0402F42C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B00CE0-348A-48B5-97D7-9D0402F42C88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08597D1F-B7B7-4AD6-AF79-BF85A5F85911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08597D1F-B7B7-4AD6-AF79-BF85A5F85911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08597D1F-B7B7-4AD6-AF79-BF85A5F85911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08597D1F-B7B7-4AD6-AF79-BF85A5F85911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23044B9C-2DA2-4DD1-8F1D-F5785F9755F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23044B9C-2DA2-4DD1-8F1D-F5785F9755F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23044B9C-2DA2-4DD1-8F1D-F5785F9755F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23044B9C-2DA2-4DD1-8F1D-F5785F9755F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CE51BED-E66B-469E-9F6D-A34CB630121D}
+	EndGlobalSection
+EndGlobal
